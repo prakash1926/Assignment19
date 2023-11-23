@@ -1,0 +1,6 @@
+C:\Users\abdul\source\repos\day14\Assignment19\ShapeAreaLip\ShapeAreaLip\bin\Debug\ShapeAreaLip.dll
+C:\Users\abdul\source\repos\day14\Assignment19\ShapeAreaLip\ShapeAreaLip\bin\Debug\ShapeAreaLip.pdb
+C:\Users\abdul\source\repos\day14\Assignment19\ShapeAreaLip\ShapeAreaLip\obj\Debug\ShapeAreaLip.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\day14\Assignment19\ShapeAreaLip\ShapeAreaLip\obj\Debug\ShapeAreaLip.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\day14\Assignment19\ShapeAreaLip\ShapeAreaLip\obj\Debug\ShapeAreaLip.dll
+C:\Users\abdul\source\repos\day14\Assignment19\ShapeAreaLip\ShapeAreaLip\obj\Debug\ShapeAreaLip.pdb
